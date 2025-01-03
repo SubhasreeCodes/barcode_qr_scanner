@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_barcode_qr_scanner/screens/BarcodeScannerScreen.dart'; 
+import 'package:flutter_barcode_qr_scanner/screens/BarcodeScannerScreen.dart';
 
 void main() {
   runApp(const MyApp());
